@@ -1,5 +1,5 @@
 --[[
-	Author: Jagoba Marcos "Jake" - #3112014
+	Author: Jagoba Marcos "Jake"
 	Date: 01/08/2014
 	Description: Tic - Tac - Toe game
 ]]
