@@ -1,4 +1,4 @@
-LUA-projects
+LUA Projects
 ============
 
 ## Overview
